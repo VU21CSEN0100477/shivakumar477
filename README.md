@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CSE.
-- 🌱 I’m currently learning C-Programming.
+- 🌱 I’m currently learning C-Programming & Python.
 - 👯 I’m looking to collaborate on Video editing.
 - 🤔 I’m looking for help with coding.
 - 📫 How to reach me: vgunuru@gitam.in
